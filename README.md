@@ -18,7 +18,7 @@ build – changes that affect the build system or external dependencies
 revert – reverts a previous commit
 ```
 ### Additional resources
-- [How to Write a Git Commit Message] by cbeams (https://cbea.ms/git-commit)
+- [How to Write a Git Commit Message - by cbeams](https://cbea.ms/git-commit)
 
 ### Commit Message
 Use the imperative mood in the subject line

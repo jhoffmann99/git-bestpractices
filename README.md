@@ -44,3 +44,7 @@ Take out the trash
 A properly formed Git commit subject line should always be able to complete the following sentence:
 
 If applied, this commit will **your subject line here**
+
+## Rebasing
+### Golden Rule of Rebasing
+Never rebase a remote public branch.
